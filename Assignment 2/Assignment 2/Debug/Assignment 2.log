@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Assignment 2\Assignment 2\Assignment 2\Main.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Assignment 2\Assignment 2\Assignment 2\Main.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+  Assignment 2.vcxproj -> C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Assignment 2\Assignment 2\Debug\Assignment 2.exe
